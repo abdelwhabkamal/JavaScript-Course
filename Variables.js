@@ -3,7 +3,7 @@ var LName="Kamal";
 var xy="My Age is:";
 var FullName=FName+" "+LName;
 
-//works in specific scoop only 
+//works in its block of code only
 let temp="My Name is:";
 
 //constant value can't change
